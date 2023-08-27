@@ -2,8 +2,6 @@
 
 Es un programa que busca facilitar la internacionalizacion y localizacion de un juego hecho con [Libgdx](https://libgdx.com/).
 
-
-
 ## Metodo de uso
 ### Solo es necesario descargar el ejecutable, en caso de que quieras modificar algo del codigo para que se adapte mas a tu necesidad tambien subi el codigo
   1. Copiar el ejecutable descargado en el directorio /core/src/###/###/   (por defecto: /core/src/com/mygdx)
@@ -14,3 +12,5 @@ Es un programa que busca facilitar la internacionalizacion y localizacion de un 
   6. Revise su carpeta "assets" en busca de un nuevo directorio "locale" ahi tendra su archivo creado con todas las Keys cargadas y listas para editar
 
 ## ATENCION: nombrar el archivo con el mismo nombre que el de uno existente le repetira todas las claves encontradas debajo y sin valor. por ahora es recomendable escribir todas de de una y luego ejecutar el Escriba (Sino va a tener que borrar las claves repetidas)
+
+En caso de que quieras entender mejor sobre internacionalizacion y localizacion, canal de youtube [makigas: aprende a programar](https://www.youtube.com/watch?v=l5JxhDhjNRY)
