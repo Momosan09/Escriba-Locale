@@ -4,7 +4,7 @@ Es un programa que busca facilitar la internacionalizacion y localizacion de un 
 
 ## Metodo de uso
 ### Solo es necesario descargar el ejecutable, en caso de que quieras modificar algo del codigo para que se adapte mas a tu necesidad tambien subi el codigo
-### Para ejecutar el .JAR, en una consola escribir java -jar Escriba-locale.jar (recomendio crearse un .bat que lo ejecute por vos, ver aplicado[]())
+### Para ejecutar el .JAR, en una consola escribir java -jar Escriba-locale.jar (recomendio crearse un .bat que lo ejecute por vos, ver aplicado: [repo](https://github.com/Momosan09/Herreria_Enana/blob/main/comandos/ejecutar-Escriba.bat))
 
   1. Copiar el ejecutable descargado en el directorio /core/src/###/###/   (por defecto: /core/src/com/mygdx)
   2. Crear una variable de tipo I18NBundle en la/s clase/s que vaya a querer traducir
